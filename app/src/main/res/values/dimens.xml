@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="double_margin">32dp</dimen>
+    <dimen name="half_margin">8dp</dimen>
+    <dimen name="button_padding">4dp</dimen>
+    <dimen name="image_button_dim">156dp</dimen>
+    <dimen name="oneandhalf_margin">24dp</dimen>
+    <dimen name="quadraple_margin">48dp</dimen>
+    <dimen name="prize_dim">64dp</dimen>
+    <dimen name="pb_dim">200dp</dimen>
+    <dimen name="big_size">48sp</dimen>
+    <dimen name="small_size">10sp</dimen>
+    <dimen name="middle_size_1">20sp</dimen>
+    <dimen name="middle_size_2">28sp</dimen>
+    <dimen name="time_size">18sp</dimen>
+
+
+</resources>

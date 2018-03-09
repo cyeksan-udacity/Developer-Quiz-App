@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Developer Quiz App</string>
+    <string name="time">Time: </string>
+    <string name="enterYourName">Enter your name</string>
+    <string name="score">\'s Score:</string>
+    <string name="total_score">/5</string>
+    <string name="your_score">Your Score:</string>
+    <string name="elapsed_time">Elapsed Time:   </string>
+    <string name="toast_message">Please go back to see correct answers marked with green.</string>
+    <string name="message1">You answered </string>
+    <string name="message2">out of 5 questions correctly.</string>
+    <string name="html_q1">1. What does HTML stand for?</string>
+    <string name="html_q1_correct">Correct answer: HyperText Markup Language</string>
+    <string name="html_q1_answer1">Hypertext Markup Language</string>
+    <string name="html_q1_answer2">HyperText Markup Language</string>
+    <string name="html_q2">2. What is the correct HTML element for inserting a line break?</string>
+    <string name="html_q2_1">br</string>
+    <string name="html_q2_2">lb</string>
+    <string name="html_q2_3">break</string>
+    <string name="html_q2_4">b</string>
+    <string name="html_q3">3. How can you open a link in a new tab / browser window in HTML?</string>
+    <string name="html_q3_1">a href="url" target="new"</string>
+    <string name="html_q3_2">a href="url" new</string>
+    <string name="html_q3_3">a href="url" blank</string>
+    <string name="html_q3_4">a href="url" target="_blank"</string>
+    <string name="html_q4">4. Please indicate table elements in HTML:</string>
+    <string name="html_q4_1">template</string>
+    <string name="html_q4_2">thead</string>
+    <string name="html_q4_3">tr</string>
+    <string name="html_q4_4">td</string>
+    <string name="html_q4_5">tfoot</string>
+    <string name="html_q5">5. An iframe is used to display web page within a web page in HTML.</string>
+    <string name="html_q5_1">True</string>
+    <string name="html_q5_2">False</string>
+    <string name="android_q1">1. What does XML stand for?</string>
+    <string name="android_q1_correct">Correct answer: Extensible Markup Language</string>
+    <string name="android_q1_answer1">Extensible Markup Language</string>
+    <string name="android_q2">2. What is the first callback which is invoked when activity is launched?</string>
+    <string name="android_q2_1">onRestoreInstanceState</string>
+    <string name="android_q2_2">onStop</string>
+    <string name="android_q2_3">onRestart</string>
+    <string name="android_q2_4">onCreate</string>
+    <string name="android_q3">3. How to get a response from an activity in Android?</string>
+    <string name="android_q3_1">StartActivityToResult()</string>
+    <string name="android_q3_2">StartActivityForResult</string>
+    <string name="android_q3_3">Bundle()</string>
+    <string name="android_q3_4">None of the above</string>
+    <string name="android_q4">4. Please indicate direct subclasses of ViewGroup in Android:</string>
+    <string name="android_q4_1">FrameLayout</string>
+    <string name="android_q4_2">RelativeLayout</string>
+    <string name="android_q4_3">LinearLayout</string>
+    <string name="android_q4_4">ScrollView</string>
+    <string name="android_q4_5">RadioGroup</string>
+    <string name="android_q5">5. Android is a linux based operating system.</string>
+    <string name="android_q5_1">True</string>
+    <string name="android_q5_2">False</string>
+    <string name="finish">FINISH</string>
+    <string name="send">SEND RESULT</string>
+    <string name="android_quiz">Android Quiz</string>
+    <string name="html_quiz">HTML Quiz</string>
+    <string name="cansu_yeksan">2018 © Created by Cansu Yeksan</string>
+    <string name="content_main_icon">https://goo.gl/gQvAJZ</string>
+    <string name="content_prize_icon">https://goo.gl/1noJX9</string>
+    <string name="content_android_icon">https://goo.gl/E6Pju8</string>
+    <string name="content_html_icon">https://goo.gl/JbZ4pc</string>
+
+</resources>
