@@ -1,3 +1,5 @@
+[![Developer Quiz App](https://img.youtube.com/vi/-X-gSs7um3M/0.jpg)](https://www.youtube.com/watch?v=-X-gSs7um3M)
+
 PROJECT LICENSE
 
 This project was submitted by Cansu Yeksan Aktas as part of the Android Basics Nanodegree At Udacity.
